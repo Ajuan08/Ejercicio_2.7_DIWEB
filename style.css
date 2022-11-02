@@ -1,0 +1,10 @@
+
+a {
+    text-decoration: none;
+    border-style: double ;
+    margin: 3px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    box-shadow: 3px 2px 3px darkblue;
+}
